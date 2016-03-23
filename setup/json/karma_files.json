@@ -1,0 +1,9 @@
+{
+    "files":
+        "test/karma.conf.js"
+    ,
+    "watch": [
+        "test/*.js",
+        "../build/js/main.js"
+    ]
+}
